@@ -9,7 +9,7 @@ import java.util.Map;
  * 常见的集合类之间的转换
  * map list  json
  * 采用alibaba falstjson
- *@tianke
+ *@tianke1
  */
 public class TransformationMap {
     public  static void main(String[] args) {
