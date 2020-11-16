@@ -31,10 +31,9 @@ public class TransformationMap {
         Map<String,Object> jsonMap=(Map<String,Object>)json;
         /**
          * string 转json
-	 * string 转json2
          */
         JSONObject jsonObject=JSONObject.parseObject(s);
-		
+		JSONObject jsonObject3=JSONObject.parseObject(s);
     }
 
 }
