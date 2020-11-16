@@ -34,6 +34,7 @@ public class TransformationMap {
          */
         JSONObject jsonObject=JSONObject.parseObject(s);
 		JSONObject jsonObject3=JSONObject.parseObject(s);
+		JSONObject jsonObject2=JSONObject.parseObject(s);
     }
 
 }
